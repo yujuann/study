@@ -1,0 +1,22 @@
+.wrap {
+  margin: 0auto;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #faaca8;
+  background-image: linear-gradient(19deg, #faaca8 0%, #ddd6f3 100%);
+}
+
+.btn {
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  font-size: 20px;
+  margin: 20px;
+  border-radius: 13px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
